@@ -1,10 +1,11 @@
 {
-  "version": 6,
+  "version": 7,
   "name": "Keyboard Backlight Slider",
   "description": "Allow setting the keyboard backlight brightness with a slider in Quick Settings",
-  "uuid": "keyboard-backlight-menu@ophir.dev",
-  "url": "https://github.com/lovasoa/gnome-keyboard-backlight-menu",
+  "uuid": "keyboard-backlight-slider@badlydrawnface.github.io",
+  "url": "https://github.com/badlydrawnface/gnome-keyboard-backlight-menu",
   "shell-version": [
+    "44",
     "43"
   ]
 }
