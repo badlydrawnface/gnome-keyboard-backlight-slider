@@ -1,23 +1,27 @@
-# Keyboard Backlight slider for gnome
-
-Set the keyboard backlight brightness with a slider in gnome shell's "Quick Settings" menu.
-
-<table>
-<td>
-<img alt="screenshot" src="https://user-images.githubusercontent.com/552629/145697318-34865317-37ea-4a8d-8688-8e2d5f69ba15.png" />
-<td>
-<img alt="backlight" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Backlit_keyboard.jpg" height=150/>
-</table>
+# Keyboard Backlight Slider for GNOME
+Sets the keyboard backlight brightness with a slider in GNOME Shell's "Quick Settings" menu.
 
 This extension adds a third slider below the sound and brightness sliders in the system menu to control the keyboard backlight.
 
+## Demo
+![](demo.gif)
+
+## Download
+TODO
+
 ## Changelog
+### v7
+- Added GNOME 44 support
+- Split off as another extension
 
 ### v6
-
 - Rewrite to support Gnome 43 via QuickSettings API
 
 ### v5
-
 - Fixed compatibility with ubuntu
 - better logging
+
+## Special Thanks
+[lovasova](https://github.com/lovasova) - Creation of the [original extension](https://github.com/lovasoa/gnome-keyboard-backlight-menu)
+
+[Aaron Trout](https://github.com/aaron-trout) - Creation of the GNOME 43 rewrite

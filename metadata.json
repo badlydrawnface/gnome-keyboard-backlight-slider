@@ -3,7 +3,7 @@
   "name": "Keyboard Backlight Slider",
   "description": "Allow setting the keyboard backlight brightness with a slider in Quick Settings",
   "uuid": "keyboard-backlight-slider@badlydrawnface.github.io",
-  "url": "https://github.com/badlydrawnface/gnome-keyboard-backlight-menu",
+  "url": "https://github.com/badlydrawnface/gnome-keyboard-backlight-slider",
   "shell-version": [
     "44",
     "43"
